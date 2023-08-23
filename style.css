@@ -1,0 +1,15 @@
+*{
+    padding: 0px; margin: 0px;
+}
+.container{
+    
+}
+li{
+    display: inline;
+    text-decoration: none;
+    padding:5px;
+    
+}
+.nav-bar  {
+    text-align: right;
+}
