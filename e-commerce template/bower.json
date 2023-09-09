@@ -1,0 +1,18 @@
+{
+  "name": "bostrap-demo",
+  "authors": [
+    "Rafi <zihadfeni1473@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "(https://github.com/RAFI20090/not_first_repository)",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
